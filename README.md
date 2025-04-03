@@ -2,7 +2,7 @@
 
 Affordable Imports is a full-stack e-commerce application built to provide a seamless shopping experience for users. The project includes a modern, responsive client application and a robust server handling business logic and data management.
 
-![Affordable Imports Logo](server/images/6pc%20serving%20spoons%20Affordable%20Imports.png)
+
 
 ## Overview
 
@@ -23,13 +23,13 @@ This project leverages a client/server architecture:
 ## Screenshots
 
 ### Home Page
-![Home Page](./AffordableImportsDjango/server/images/screenshot%20(28).png)
+![Home Page](./server/images/screenshot%20(28).png)
 
 ### Product Page
-![Product Page](./AffordableImportsDjango/server/images/screenshot%20(22).png)
+![Product Page](./server/images/screenshot%20(25).png)
 
 ### Checkout
-![Checkout Screen](./AffordableImportsDjango/server/images/6pc%20serving%20spoons%20%20%20Affordable%20Imports.png)
+![Checkout Screen](./server/images/6pc%20serving%20spoons%20%20%20Affordable%20Imports.png
 
 ### Development Mode
 
